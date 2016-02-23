@@ -1,0 +1,26 @@
+
+nav{
+	display:none;
+
+}
+
+body{
+	font-family: 'Raleway', sans-serif;
+}
+
+h1, h2, h3{
+ font-family: 'Lato', sans-serif;
+ font-weight: bold;
+ font-size: 20px;
+}
+ 
+ button {
+ 	padding: 5px 25px 5px 25px;
+ 	background-color: #AFF2E3;
+
+}
+
+footer {
+	margin-top:1px; 
+	background-color: #F0E5D7;
+}
